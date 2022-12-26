@@ -84,6 +84,18 @@ On the right pmod is the UART connections for talking between the fpga and the G
 
 ![hardware](hardware_rig.jpg)
 
+# Logical Layout diagram
+![Diagram](RV32I_RangerRisc.png)
+
+# Core FSM
+![FSM Diagram](RV32I_FSM.png)
+
+# CSRs
+![CSR Diagram](CSR_Diagrams.png)
+
+# Test harness during Synthesis
+![CSR Diagram](Synth_test_harness.png)
+
 # Usage
 Super high level usage guide:
 
